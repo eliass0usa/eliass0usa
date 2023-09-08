@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=30&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Elias+de+Sousa;Tenho+19+anos;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliass0usa&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=20B2AA&text_color=48D1CC&bg_color=2F4F4F" alt="Elias Sousa github stats" /> 
+ 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliass0usa&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=2F4F4F" />
 </div>
 
 <br>
 
 <div align="center"> 
-<h2>Social</h2>
+<h2>Vamos nos Conectar!</h2>
 <a href="https://www.instagram.com/eliass0usa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/eliassousaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
