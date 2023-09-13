@@ -3,28 +3,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=30&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Elias+de+Sousa;Tenho+19+anos;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
+<br><br>
 <div align="center">  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliass0usa&layout=compact)
  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliass0usa&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=2F4F4F" />
 </div>
 
-<br>
-
-<div align="center"> 
-<h2>Vamos nos Conectar!</h2>
-<a href="https://www.instagram.com/eliass0usa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/eliassousaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-  
 <br>
   
 <div align="center" style="display: inline_block"><br/>
   <h2>Tecnologias</h2>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    
+    <img alt="HTLM5" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS3" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="JAVASCRIPT" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="JAVA" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<br><br>
+
+ <div align="center"> 
+<h2>Vamos nos Conectar!</h2>
+<a href="https://www.instagram.com/eliass0usa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/eliassousaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
+   
 
 </div> 
 <br>
