@@ -18,6 +18,8 @@
     <img alt="CSS3" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="JAVASCRIPT" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alt="JAVA" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="MySQL" style="height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
 <br><br>
 
  <div align="center"> 
