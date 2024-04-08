@@ -34,7 +34,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🐍 &emsp; Atualmente estudando Pyhton &emsp; 🐍<br/><br/>
+
  🎮 &emsp; Jogar video game e Ler livros &emsp; 📚<br/><br/>
  📧 &emsp; Fale comigo: eliassousaoliveira@hotmail.com<br/><br/>
  
