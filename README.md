@@ -11,14 +11,16 @@
  
   <samp>   
     <br>
-    「 Estagiário de Inteligência de Suprimentos na <b>GOL Linhas Aéreas</b> 」
-    <br>
+    「 Suprimentos <b>GOL Linhas Aéreas</b> 」
     <br>
   </samp>
 </p>
 
 <p align="center">
- 
+        
+<a href="https://bio.site/eliassousa" target="_blank">
+  <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a> 
  <a href="https://linkedin.com/in/eliassousaoliveira" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
@@ -35,24 +37,22 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 
- 🎮 &emsp; Jogar video game e Ler livros &emsp; 📚<br/><br/>
- 📧 &emsp; Fale comigo: eliassousaoliveira@hotmail.com<br/><br/>
+ 🎮 &emsp; Estudante - Análise e Desenvolvimento de Sistemas &emsp; 📚<br/><br/>
+ 📧 &emsp; Fale comigo: eliassousaoliveira@hotmail.com<br/>
  
 
 </p>
 
 <br/>
 <br/>
-<br/>
 
 ## Tecnologias
 
-
+	
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
@@ -66,12 +66,6 @@
 <br/>
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/eliass0usa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliass0usa&theme=radical&border=7F3FBF&background=0D1117" alt="Sousa GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/eliass0usa">
