@@ -37,7 +37,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 
- 🎮 &emsp; Estudante - Análise e Desenvolvimento de Sistemas &emsp; 📚<br/><br/>
+ 📚 &emsp; Estudante - Análise e Desenvolvimento de Sistemas &emsp; 📚<br/><br/>
  📧 &emsp; Fale comigo: eliassousaoliveira@hotmail.com<br/>
  
 
@@ -48,16 +48,14 @@
 
 ## Tecnologias
 
-	
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-
 
 <p align="left">
   <a href="https://github.com/eliass0usa?tab=repositories" target="_blank"><img alt="Meus Repositórios" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
