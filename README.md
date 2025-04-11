@@ -2,19 +2,9 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá!, meu nome é Elias!
-               
-        
 </h3>
 
 
-<p align="center"> 
- 
-  <samp>   
-    <br>
-    「 Suprimentos <b>GOL Linhas Aéreas</b> 」
-    <br>
-  </samp>
-</p>
 
 <p align="center">
         
@@ -37,8 +27,9 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 
- 📚 &emsp; Estudante - Análise e Desenvolvimento de Sistemas &emsp; 📚<br/><br/>
- 📧 &emsp; Fale comigo: eliassousaoliveira@hotmail.com<br/>
+
+  &emsp; Pós Data Analytics on FIAP &emsp; <br/><br/>
+  &emsp; Técnologo em Análise e Desenvolvimento de Sistemas &emsp; <br/><br/>
  
 
 </p>
